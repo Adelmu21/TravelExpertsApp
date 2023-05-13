@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelExpertsWorkshop1", "TravelExpertsWorkshop1\TravelExpertsWorkshop1.csproj", "{FCAEBF49-DA0C-4146-B9CF-258A1ED93473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelExpertsData", "TravelExpertsData\TravelExpertsData.csproj", "{53B05E45-499B-4631-A0ED-9331D473E059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAEBF49-DA0C-4146-B9CF-258A1ED93473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAEBF49-DA0C-4146-B9CF-258A1ED93473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAEBF49-DA0C-4146-B9CF-258A1ED93473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAEBF49-DA0C-4146-B9CF-258A1ED93473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B05E45-499B-4631-A0ED-9331D473E059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B05E45-499B-4631-A0ED-9331D473E059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B05E45-499B-4631-A0ED-9331D473E059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B05E45-499B-4631-A0ED-9331D473E059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D62BCA59-7A30-4295-B54D-1047D1B8CD7C}
+	EndGlobalSection
+EndGlobal
