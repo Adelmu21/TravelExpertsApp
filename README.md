@@ -33,8 +33,8 @@ View Packages Form<hr>
 View Details Form<hr>
 ![View Details Form screenshot](./img/ViewDetailsForm.jpg)<br>
 
-Add Product & Supplier To Package
-![Add Product & Supplier To Package screenshot](./img/AddProduct&SupplierToPackage.jpg)<br>
+Add Product & Supplier To Package<hr>
+![AddProdSup screenshot](./img/AddProduct&SupplierToPackage.jpg)<br>
 
 View Supplier Form<hr>
 ![View Supplier Form screenshot](./img/ViewSupplierForm.jpg)<br>
