@@ -24,31 +24,31 @@
 
 ## Screenshots
 
-Main Form
+Main Form<hr>
 ![Main Form screenshot](./img/MainForm.jpg)<br>
 
-Packages Page
+Packages Page<hr>
 ![Packages Page screenshot](./img/PackagesPage.jpg)<br>
 
-View Packages Form
+View Packages Form<hr>
 ![View Packages Form screenshot](./img/ViewPackagesForm.jpg)<br>
 
-View Details Form
+View Details Form<hr>
 ![View Details Form screenshot](./img/ViewDetailsForm.jpg)<br>
 
 Add Product & Supplier To Package
 ![Add Product & Supplier To Package screenshot](./img/AddProduct&SupplierToPackage.jpg)<br>
 
-View Supplier Form
+View Supplier Form<hr>
 ![View Supplier Form screenshot](./img/ViewSupplierForm.jpg)<br>
 
-Modify Supplier Form
+Modify Supplier Form<hr>
 ![Modify Supplier Form screenshot](./img/ModifySupplierForm.jpg)<br>
 
-View Products Form
+View Products Form<hr>
 ![View Products Form screenshot](./img/ViewProductsrForm.jpg)<br>
 
-Modify Product Form
+Modify Product Form<hr>
 ![Modify Product Form screenshot](./img/ModifyProductForm.jpg)<br>
 
 
