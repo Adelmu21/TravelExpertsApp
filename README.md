@@ -24,28 +24,37 @@
 
 ## Screenshots
 
-Main Page
-![Main Page screenshot](./img/MainPage.jpg)<br>
+Main Form
+![Main Form screenshot](./img/MainForm.jpg)<br>
 
 Packages Page
 ![Packages Page screenshot](./img/PackagesPage.jpg)<br>
 
-Packages Card
-![Packages Card screenshot](./img/PackagesCard.jpg)<br>
+View Packages Form
+![View Packages Form screenshot](./img/ViewPackagesForm.jpg)<br>
 
-Login Page
-![Login Page screenshot](./img/LoginPage.jpg)<br>
+View Details Form
+![View Details Form screenshot](./img/ViewDetailsForm.jpg)<br>
 
-Bookings Page
-![Bookings Page screenshot](./img/BookingsPage.jpg)<br>
+Add Product & Supplier To Package
+![Add Product & Supplier To Package screenshot](./img/AddProduct&SupplierToPackage.jpg)<br>
 
-My Bookings Page
-![My Bookings Page screenshot](./img/MyBookingsPage.jpg)<br>
+View Supplier Form
+![View Supplier Form screenshot](./img/ViewSupplierForm.jpg)<br>
+
+Modify Supplier Form
+![Modify Supplier Form screenshot](./img/ModifySupplierForm.jpg)<br>
+
+View Products Form
+![View Products Form screenshot](./img/ViewProductsrForm.jpg)<br>
+
+Modify Product Form
+![Modify Product Form screenshot](./img/ModifyProductForm.jpg)<br>
 
 
 ## Setup
 after downloading all files in the repo (Visual Studio was used to build and run the Web App)
-- then start TravelExpertsWorshop2.sln file
+- then start TravelExpertsWorshop1.sln file
 - set TravelExpertsData library as Startup project
 - go to Project Manager Console and make sure the default project is set to TravelExpertsData
 - cope and paste this scaffold in PM console Scaffold-DbContext -Connection "Data Source=localhost\sqlexpress;Initial Catalog=TravelExperts;Integrated Security=True;Encrypt=False" -Provider Microsoft.EntityFrameworkCore.SqlServer -Context TravelExpertsContext -OutputDir "look up where the TravelExpertsData folder is, right click and copy as path to paste here" -DataAnnotations
