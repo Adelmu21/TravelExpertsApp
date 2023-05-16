@@ -43,7 +43,7 @@ Modify Supplier Form<hr>
 ![Modify Supplier Form screenshot](./img/ModifySupplierForm.jpg)<br>
 
 View Products Form<hr>
-![View Products Form screenshot](./img/ViewProductsrForm.jpg)<br>
+![View Products Form screenshot](./img/ViewProductsForm.jpg)<br>
 
 Modify Product Form<hr>
 ![Modify Product Form screenshot](./img/ModifyProductForm.jpg)<br>
