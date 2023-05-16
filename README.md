@@ -30,8 +30,8 @@ Main Form<hr>
 View Packages Form<hr>
 ![View Packages Form screenshot](./img/ViewPackagesForm.jpg)<br>
 
-View Details Form<hr>
-![View Details Form screenshot](./img/ViewDetailsForm.jpg)<br>
+Package Details Form<hr>
+![Package Details Form screenshot](./img/PackageDetailsForm.jpg)<br>
 
 Add Product & Supplier To Package<hr>
 ![AddProdSup screenshot](./img/AddProduct&SupplierToPackage.jpg)<br>
