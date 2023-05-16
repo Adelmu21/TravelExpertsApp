@@ -27,9 +27,6 @@
 Main Form<hr>
 ![Main Form screenshot](./img/MainForm.jpg)<br>
 
-Packages Page<hr>
-![Packages Page screenshot](./img/PackagesPage.jpg)<br>
-
 View Packages Form<hr>
 ![View Packages Form screenshot](./img/ViewPackagesForm.jpg)<br>
 
