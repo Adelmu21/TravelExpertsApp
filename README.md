@@ -8,7 +8,7 @@
 * [Setup](#setup)
 
 ## General Information
-- Travel app intented to allow users to add and modify packages or add and modify suppliers and their products (a user would be the agent)
+- Travel app intended to allow users to add and modify packages or add and modify suppliers and their products (a user would be the agent)
 - Intended to create a user experience to provide a platform that displays/modifies products
 - Made as a final project for my class
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
